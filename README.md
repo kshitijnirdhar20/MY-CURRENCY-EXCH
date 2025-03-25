@@ -1,2 +1,2 @@
-# MY CURRENCY EXCH
+# PAISE-KO-JAANO!
   Currency Converter | HTML, CSS, JavaScript This is a simple and responsive Currency Converter built using HTML, CSS, and JavaScript. It allows users to quickly convert between different currencies using real-time exchange rates.  🚀 Features ✅ User-friendly interface ✅ Live exchange rate fetching via API ✅ Instant currency conversion ✅ Responsive design for all devices ✅ Lightweight and fast  🔧 Technologies Used HTML for structuring the page  CSS for styling and layout  JavaScript for fetching and processing exchange rates  Feel free to clone, modify, and improve this project! 😊 ⭐ Don't forget to star this repo if you find it useful! 🚀
